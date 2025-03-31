@@ -1,7 +1,7 @@
 # Fractal-Assignment
-#### PyQ1 PyQ2 PyQ3 code and outputs are embedded in the above provided Jupyter notebook.
+#### `PyQ1`, `PyQ2`, `PyQ3` codes and outputs are embedded in the above provided Jupyter notebooks.
 ---
-#### The output for SQLQ4 is shown as below.
+#### The output for `SQLQ4` is shown as below.
 ### Q1
 ![Q1](https://github.com/user-attachments/assets/b3d56573-4f3a-4e3b-9d59-49e72b9f4abe)
 ### Output
